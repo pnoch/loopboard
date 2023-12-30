@@ -850,7 +850,6 @@ id message
 id middle
 id mini
 id multiply
-id mute
 id navigation_header_container
 id never
 id none
@@ -858,6 +857,7 @@ id normal
 id notification_background
 id notification_main_column
 id notification_main_column_container
+id octave
 id parallax
 id parentPanel
 id parent_matrix
@@ -879,6 +879,7 @@ id sample_name_field
 id save_image_matrix
 id save_non_transition_alpha
 id save_scale_type
+id saw
 id screen
 id scroll
 id scrollIndicatorDown

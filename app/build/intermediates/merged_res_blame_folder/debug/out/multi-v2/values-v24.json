@@ -1,10 +1,20 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\wohnton\\Documents\\GitHub\\loopboard\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v24\\values-v24.xml",
+            "outputFile": "com.alexkang.loopboard.app-mergeDebugResources-8:/values-v24/values-v24.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\wohnton\\.gradle\\caches\\transforms-3\\f17c25bb982fd69a40425307b80442db\\transformed\\support-media-compat-26.1.0\\res\\values-v24\\values-v24.xml",
+                    "source": "/Users/Noch/.gradle/caches/transforms-3/f7b20699aed309e03876d4861a8a3552/transformed/appcompat-v7-26.1.0/res/values-v24/values-v24.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "55,212,347,416,480,549",
+                        "endColumns": "156,134,68,63,68,69",
+                        "endOffsets": "207,342,411,475,544,614"
+                    }
+                },
+                {
+                    "source": "/Users/Noch/.gradle/caches/transforms-3/d0901dd8abf1634a8e2b2c23766ece37/transformed/support-media-compat-26.1.0/res/values-v24/values-v24.xml",
                     "from": {
                         "startLines": "2,3,4,5",
                         "startColumns": "4,4,4,4",
@@ -18,16 +28,6 @@
                         "startOffsets": "619,685,746,812",
                         "endColumns": "65,60,65,66",
                         "endOffsets": "680,741,807,874"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\wohnton\\.gradle\\caches\\transforms-3\\ab34afbad33ed6991478f78ca68bfb8f\\transformed\\appcompat-v7-26.1.0\\res\\values-v24\\values-v24.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7",
-                        "startColumns": "4,4,4,4,4,4",
-                        "startOffsets": "55,212,347,416,480,549",
-                        "endColumns": "156,134,68,63,68,69",
-                        "endOffsets": "207,342,411,475,544,614"
                     }
                 }
             ]

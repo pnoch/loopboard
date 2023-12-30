@@ -1,9 +1,9 @@
 <component name="libraryTable">
-  <library name="Gradle: com.android.support:design:26.1.0@aar">
+  <library name="Gradle: com.android.support:design:26.1.0@aar" external-system-id="GRADLE">
     <CLASSES>
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/55011c2035aa9e036240c714c97c6756/transformed/design-26.1.0/jars/classes.jar!/" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/55011c2035aa9e036240c714c97c6756/transformed/design-26.1.0/res" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/55011c2035aa9e036240c714c97c6756/transformed/design-26.1.0/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/b15482b039650649846698a2c8a96287/transformed/design-26.1.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/b15482b039650649846698a2c8a96287/transformed/design-26.1.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/b15482b039650649846698a2c8a96287/transformed/design-26.1.0/AndroidManifest.xml" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>

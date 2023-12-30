@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\wohnton\\Documents\\GitHub\\loopboard\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v18\\values-v18.xml",
+            "outputFile": "com.alexkang.loopboard.app-mergeDebugResources-8:/values-v18/values-v18.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\wohnton\\.gradle\\caches\\transforms-3\\ab34afbad33ed6991478f78ca68bfb8f\\transformed\\appcompat-v7-26.1.0\\res\\values-v18\\values-v18.xml",
+                    "source": "/Users/Noch/.gradle/caches/transforms-3/f7b20699aed309e03876d4861a8a3552/transformed/appcompat-v7-26.1.0/res/values-v18/values-v18.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
